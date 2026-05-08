@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-05-07T01:50:17.624898868Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-05-08T05:24:24.800211196Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "520fc79a-12ee-41e3-a3d3-16b8d39b6d0f",
     "homepageId": "c685192f-9efd-44a2-9831-0527b3c19d67"
@@ -764,7 +764,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "양양 이당 독채펜션",
                 "images": [
                   {
                     "id": "04127db4-8d7d-4836-8860-aeb671fcba6d",
@@ -774,7 +774,8 @@
                     "isSelected": true,
                     "blockId": null
                   }
-                ]
+                ],
+                "description": "양양 시내와 가까워 편리하게 머물기 좋은 독채펜션. 낙산해변까지 가까워 바다 여행을 함께 즐기실 수 있습니다. 오직 한 팀만을 위한 프라이빗한 공간에서 여유로운 시간을 보내보세요. 조용한 휴식과 감성을 모두 담은 양양 독채 스테이입니다."
               },
               "about": [ ]
             }
