@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-08T05:24:24.800211196Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-08T05:26:05.582616245Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "520fc79a-12ee-41e3-a3d3-16b8d39b6d0f",
     "homepageId": "c685192f-9efd-44a2-9831-0527b3c19d67"
@@ -733,7 +733,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "0d1a3e6f-a6bb-43db-b77d-aeaadc6d1955",
@@ -754,8 +754,8 @@
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " ",
+                "description": "🚌 대중교통 이용 안내\n양양터미널 하차 후 택시 이용 시 약 5~10분 내외\n시내버스 이용 시 양양읍 방면 버스 탑승 후 관덕정길 인근 하차"
               }
             }
           ]
