@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-05-08T05:26:05.582616245Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-05-14T00:47:54.749408469Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "520fc79a-12ee-41e3-a3d3-16b8d39b6d0f",
     "homepageId": "c685192f-9efd-44a2-9831-0527b3c19d67"
@@ -26,7 +26,7 @@
     "city": "양양군",
     "domain": "idang.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12006",
-    "ybsId": "",
+    "ybsId": "80195",
     "amenities": [
       "WiFi",
       "주차장",
@@ -385,6 +385,7 @@
         "온돌",
         "이불"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "온돌",
@@ -458,6 +459,7 @@
         "온돌",
         "이불"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "온돌",
@@ -814,6 +816,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {
