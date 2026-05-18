@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-05-18T05:47:01.215428399Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-05-18T05:51:03.593801725Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "520fc79a-12ee-41e3-a3d3-16b8d39b6d0f",
     "homepageId": "c685192f-9efd-44a2-9831-0527b3c19d67"
@@ -25,7 +25,7 @@
     "province": "강원특별자치도",
     "city": "양양군",
     "domain": "idang.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12006",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1335877046",
     "ybsId": "80195",
     "amenities": [
       "WiFi",
